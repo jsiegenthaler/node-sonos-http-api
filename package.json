@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "anesidora": "^1.2.0",
-    "aws-sdk": "^2.1102.0",
+    "aws-sdk": "^2.1103.0",
     "basic-auth": "^2.0.1",
     "fuse.js": "^6.5.3",
-    "html-entities": "^1.2.1",
+    "html-entities": "^1.4.0",
     "json5": "^2.2.1",
     "mime": "^3.0.0",
     "music-metadata": "^7.12.2",
